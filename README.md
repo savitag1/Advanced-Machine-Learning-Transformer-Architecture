@@ -1,6 +1,6 @@
 # Advanced Machine Learning - Transformer-Architecture
 
-This repository features work I completed for the *Advanced Machine Learning & Artificial Intelligence* course in UChicago's Applied Data Analytics program. In these code examples, I explore Natural Language Processing(NLP) and Large Language Model (LLM) methods using a GPU in Google Cloud Platform.
+This repository features work I completed for the *Advanced Machine Learning & Artificial Intelligence* course in UChicago's Applied Data Analytics program. In these code examples, I explore Natural Language Processing(NLP) and Large Language Model (LLM) methods using a GPU instance in Google Cloud Platform.
 
 **Table of Contents**
 - ML-AI 1: Matrix Multiplication (GPU and CPU)
